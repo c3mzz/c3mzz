@@ -2,7 +2,7 @@
 
 ## 🧠 Competitive Programmer | Olympiad Student
 
-I'm a passionate coder with a strong interest in algorithms, data structures, and problem solving. I’am **Thailand Olympiad in Informatics (TOI)** participant.
+I'm a passionate coder with a strong interest in algorithms, data structures, and problem solving. I’m **Thailand Olympiad in Informatics (TOI)** participant.
 
 ## 💻 What I Do
 - 🥇 Solving problems on platforms like OTOG, programming.in.th, Codeforces, AtCoder
